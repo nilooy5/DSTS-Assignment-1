@@ -1,0 +1,12 @@
+Deliverables
+
+You are required to submit a compressed (e.g. ZIP) file to the Canvas website of the unit with the following files:
+
+1. Python Jupyter Notebook(s) with the code for parts A & B with all explanation, discussion and insights added as Markdown cells or comments into the notebook(s).
+2. A PDF document with the following:
+	a. Link to the Tableau Dashboard
+	b. Results of the (regression and classification) trained models on the test data. These results need to be listed in two tables: one for the regression and another for the classification.
+	c.The list of the commands that you have used to deploy your source code to the GitLab repository.
+	d. The list of the commands that you have used to create and push the Docker image to the Docker Hub.
+	e. The Link to the source code you have deployed on the GitLab (please add me as a collaborator, my Gitlab account is radwanebrahim@gmail.com)
+	f. The Link to the Docker image you have deployed on the Docker Hub.
